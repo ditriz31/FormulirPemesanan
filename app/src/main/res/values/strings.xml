@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Formulir Pemesanan</string>
+    <string name="judul_formulir">Formulir Pemesanan Kopi</string>
+    <string name="label_nama">Nama Pemesan:</string>
+    <string name="hint_nama">Masukkan nama Anda</string>
+    <string name="label_varian">Pilih Varian Minuman:</string>
+    <string name="label_ukuran">Pilih Ukuran (Size):</string>
+    <string name="ukuran_small">Small</string>
+    <string name="ukuran_medium">Medium</string>
+    <string name="ukuran_large">Large</string>
+    <string name="label_topping">Topping / Tambahan:</string>
+    <string name="topping_espresso">Extra Shot Espresso</string>
+    <string name="topping_boba">Boba</string>
+    <string name="tombol_proses">Proses Pesanan</string>
+    <string name="label_rekap">Rekap Pesanan:</string>
+    <string name="error_nama_kosong">Nama pemesan wajib diisi</string>
+    <string name="tanpa_topping">Tanpa topping</string>
+    <string name="pesanan_ditambahkan">Pesanan ditambahkan</string>
+
+    <string-array name="varian_minuman">
+        <item>Kopi Susu Gula Aren</item>
+        <item>Americano</item>
+        <item>Cappuccino</item>
+        <item>Caffe Latte</item>
+        <item>Caramel Macchiato</item>
+        <item>Matcha Latte</item>
+    </string-array>
+</resources>
